@@ -1,6 +1,0 @@
-[submodule "uart_register_bridge"]
-	path = uart_register_bridge
-	url = https://github.com/jfievet/uart_register_bridge
-[submodule "elan32_soc"]
-	path = elan32_soc
-	url = https://github.com/jfievet/elan32_soc
