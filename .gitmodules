@@ -1,0 +1,3 @@
+[submodule "uart_register_bridge"]
+	path = uart_register_bridge
+	url = https://github.com/jfievet/uart_register_bridge
